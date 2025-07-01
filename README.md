@@ -18,7 +18,6 @@ Here are some of the projects I'm proud of:
 - 🎬 [Movie Recommender](https://github.com/wojtekjurkowicz/movie-recommender) – Recommender system using collaborative filtering
 - 👷 [Budowlanka](https://github.com/wojtekjurkowicz/budowlanka) – App for managing construction projects
 - ✍️ [Signature Recognition](https://github.com/wojtekjurkowicz/signature_recognition) – Neural network for handwritten signature classification
-- 🎢 [Amusement Park Simulation](https://github.com/Jasion12304/Park-Rozrywki-) – Simulation project built with a team
 - 🧠 [SI Project](https://github.com/Adajpg/si) – AI/ML-based university project
 
 ## 📈 GitHub Stats
