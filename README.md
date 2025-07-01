@@ -24,7 +24,6 @@ Here are some of the projects I'm proud of:
 ## 📈 GitHub Stats
 ![Wojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekjurkowicz&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekjurkowicz&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wojtekjurkowicz&theme=default)](https://github.com/wojtekjurkowicz)
 
 ## 🌍 Let's connect
 Feel free to reach out or follow me:
